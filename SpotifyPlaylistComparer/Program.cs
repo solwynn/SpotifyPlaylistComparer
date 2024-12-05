@@ -26,7 +26,6 @@ namespace SpotifyPlaylistComparer
 
         public static async void HandleImplicitAuth(SpotifyClient client)
         {
-
             foreach (KeyValuePair<string, Overlaps> kv in await PlaylistComparer.Compare(client, _opts.PlaylistIDs.ToList()))
             {
                 if (kv.Value.Playlists.Count > 1)
