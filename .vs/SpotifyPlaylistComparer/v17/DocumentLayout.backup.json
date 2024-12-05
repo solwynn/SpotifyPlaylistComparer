@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alice\\source\\repos\\SpotifyWrappedChecker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF683727-66F8-4B00-86DF-564C52F50782}|SpotifyWrappedChecker\\SpotifyWrappedChecker.csproj|c:\\users\\alice\\source\\repos\\spotifywrappedchecker\\spotifywrappedchecker\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{AF683727-66F8-4B00-86DF-564C52F50782}|SpotifyWrappedChecker\\SpotifyWrappedChecker.csproj|solutionrelative:spotifywrappedchecker\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF683727-66F8-4B00-86DF-564C52F50782}|SpotifyWrappedChecker\\SpotifyPlaylistComparer.csproj|c:\\users\\alice\\source\\repos\\spotifywrappedchecker\\spotifywrappedchecker\\playlistcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF683727-66F8-4B00-86DF-564C52F50782}|SpotifyWrappedChecker\\SpotifyPlaylistComparer.csproj|solutionrelative:spotifywrappedchecker\\playlistcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF683727-66F8-4B00-86DF-564C52F50782}|SpotifyWrappedChecker\\SpotifyWrappedChecker.csproj|c:\\users\\alice\\source\\repos\\spotifywrappedchecker\\spotifywrappedchecker\\globalsuppressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF683727-66F8-4B00-86DF-564C52F50782}|SpotifyWrappedChecker\\SpotifyWrappedChecker.csproj|solutionrelative:spotifywrappedchecker\\globalsuppressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF683727-66F8-4B00-86DF-564C52F50782}|SpotifyWrappedChecker\\SpotifyPlaylistComparer.csproj|c:\\users\\alice\\source\\repos\\spotifywrappedchecker\\spotifywrappedchecker\\spotifyplaylistcomparer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF683727-66F8-4B00-86DF-564C52F50782}|SpotifyWrappedChecker\\SpotifyPlaylistComparer.csproj|solutionrelative:spotifywrappedchecker\\spotifyplaylistcomparer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF683727-66F8-4B00-86DF-564C52F50782}|SpotifyWrappedChecker\\SpotifyPlaylistComparer.csproj|c:\\users\\alice\\source\\repos\\spotifywrappedchecker\\spotifywrappedchecker\\models\\argmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF683727-66F8-4B00-86DF-564C52F50782}|SpotifyWrappedChecker\\SpotifyPlaylistComparer.csproj|solutionrelative:spotifywrappedchecker\\models\\argmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF683727-66F8-4B00-86DF-564C52F50782}|SpotifyWrappedChecker\\SpotifyWrappedChecker.csproj|c:\\users\\alice\\source\\repos\\spotifywrappedchecker\\spotifywrappedchecker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF683727-66F8-4B00-86DF-564C52F50782}|SpotifyWrappedChecker\\SpotifyWrappedChecker.csproj|solutionrelative:spotifywrappedchecker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF683727-66F8-4B00-86DF-564C52F50782}|SpotifyWrappedChecker\\SpotifyPlaylistComparer.csproj|c:\\users\\alice\\source\\repos\\spotifywrappedchecker\\spotifywrappedchecker\\auth\\implicitauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF683727-66F8-4B00-86DF-564C52F50782}|SpotifyWrappedChecker\\SpotifyPlaylistComparer.csproj|solutionrelative:spotifywrappedchecker\\auth\\implicitauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF683727-66F8-4B00-86DF-564C52F50782}|SpotifyWrappedChecker\\SpotifyWrappedChecker.csproj|c:\\users\\alice\\source\\repos\\spotifywrappedchecker\\spotifywrappedchecker\\license.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{AF683727-66F8-4B00-86DF-564C52F50782}|SpotifyWrappedChecker\\SpotifyWrappedChecker.csproj|solutionrelative:spotifywrappedchecker\\license.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF683727-66F8-4B00-86DF-564C52F50782}|SpotifyWrappedChecker\\SpotifyWrappedChecker.csproj|c:\\users\\alice\\source\\repos\\spotifywrappedchecker\\spotifywrappedchecker\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AF683727-66F8-4B00-86DF-564C52F50782}|SpotifyWrappedChecker\\SpotifyWrappedChecker.csproj|solutionrelative:spotifywrappedchecker\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlaylistComparer.cs",
+              "DocumentMoniker": "C:\\Users\\Alice\\source\\repos\\SpotifyWrappedChecker\\SpotifyWrappedChecker\\PlaylistComparer.cs",
+              "RelativeDocumentMoniker": "SpotifyWrappedChecker\\PlaylistComparer.cs",
+              "ToolTip": "C:\\Users\\Alice\\source\\repos\\SpotifyWrappedChecker\\SpotifyWrappedChecker\\PlaylistComparer.cs",
+              "RelativeToolTip": "SpotifyWrappedChecker\\PlaylistComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:15:25.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalSuppressions.cs",
+              "DocumentMoniker": "C:\\Users\\Alice\\source\\repos\\SpotifyWrappedChecker\\SpotifyWrappedChecker\\GlobalSuppressions.cs",
+              "RelativeDocumentMoniker": "SpotifyWrappedChecker\\GlobalSuppressions.cs",
+              "ToolTip": "C:\\Users\\Alice\\source\\repos\\SpotifyWrappedChecker\\SpotifyWrappedChecker\\GlobalSuppressions.cs",
+              "RelativeToolTip": "SpotifyWrappedChecker\\GlobalSuppressions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:30:08.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImplicitAuth.cs",
+              "DocumentMoniker": "C:\\Users\\Alice\\source\\repos\\SpotifyWrappedChecker\\SpotifyWrappedChecker\\Auth\\ImplicitAuth.cs",
+              "RelativeDocumentMoniker": "SpotifyWrappedChecker\\Auth\\ImplicitAuth.cs",
+              "ToolTip": "C:\\Users\\Alice\\source\\repos\\SpotifyWrappedChecker\\SpotifyWrappedChecker\\Auth\\ImplicitAuth.cs",
+              "RelativeToolTip": "SpotifyWrappedChecker\\Auth\\ImplicitAuth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:15:03.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LICENSE.md",
+              "DocumentMoniker": "C:\\Users\\Alice\\source\\repos\\SpotifyWrappedChecker\\SpotifyWrappedChecker\\LICENSE.md",
+              "RelativeDocumentMoniker": "SpotifyWrappedChecker\\LICENSE.md",
+              "ToolTip": "C:\\Users\\Alice\\source\\repos\\SpotifyWrappedChecker\\SpotifyWrappedChecker\\LICENSE.md",
+              "RelativeToolTip": "SpotifyWrappedChecker\\LICENSE.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAADMAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-05T04:13:40.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Alice\\source\\repos\\SpotifyWrappedChecker\\SpotifyWrappedChecker\\README.md",
+              "RelativeDocumentMoniker": "SpotifyWrappedChecker\\README.md",
+              "ToolTip": "C:\\Users\\Alice\\source\\repos\\SpotifyWrappedChecker\\SpotifyWrappedChecker\\README.md",
+              "RelativeToolTip": "SpotifyWrappedChecker\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-05T04:13:04.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Alice\\source\\repos\\SpotifyWrappedChecker\\SpotifyWrappedChecker\\.gitignore",
+              "RelativeDocumentMoniker": "SpotifyWrappedChecker\\.gitignore",
+              "ToolTip": "C:\\Users\\Alice\\source\\repos\\SpotifyWrappedChecker\\SpotifyWrappedChecker\\.gitignore",
+              "RelativeToolTip": "SpotifyWrappedChecker\\.gitignore",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAIQAAAAJAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-12-05T04:12:38.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alice\\source\\repos\\SpotifyWrappedChecker\\SpotifyWrappedChecker\\Program.cs",
+              "RelativeDocumentMoniker": "SpotifyWrappedChecker\\Program.cs",
+              "ToolTip": "C:\\Users\\Alice\\source\\repos\\SpotifyWrappedChecker\\SpotifyWrappedChecker\\Program.cs",
+              "RelativeToolTip": "SpotifyWrappedChecker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:43:26.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpotifyPlaylistComparer.csproj",
+              "DocumentMoniker": "C:\\Users\\Alice\\source\\repos\\SpotifyWrappedChecker\\SpotifyWrappedChecker\\SpotifyPlaylistComparer.csproj",
+              "RelativeDocumentMoniker": "SpotifyWrappedChecker\\SpotifyPlaylistComparer.csproj",
+              "ToolTip": "C:\\Users\\Alice\\source\\repos\\SpotifyWrappedChecker\\SpotifyWrappedChecker\\SpotifyPlaylistComparer.csproj",
+              "RelativeToolTip": "SpotifyWrappedChecker\\SpotifyPlaylistComparer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T01:34:02.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "3d756237-0cab-45d2-b056-a8bd263f811d",
+        "Display": 1,
+        "X": 272,
+        "Y": 296,
+        "Width": 1658,
+        "Height": 856,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArgModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alice\\source\\repos\\SpotifyWrappedChecker\\SpotifyWrappedChecker\\Models\\ArgModel.cs",
+              "RelativeDocumentMoniker": "SpotifyWrappedChecker\\Models\\ArgModel.cs",
+              "ToolTip": "C:\\Users\\Alice\\source\\repos\\SpotifyWrappedChecker\\SpotifyWrappedChecker\\Models\\ArgModel.cs",
+              "RelativeToolTip": "SpotifyWrappedChecker\\Models\\ArgModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:15:20.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
