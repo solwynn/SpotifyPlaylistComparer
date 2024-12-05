@@ -8,9 +8,9 @@ A program I wrote in a few hours to compare several Spotify playlists. I wrote t
 SpotifyWrappedChecker is a command-line tool and has 5 command-line options:  
 -c, --ClientID (Required) - Your Spotify app's client id, can be found at https://developer.spotify.com/dashboard  
 -p, --PlaylistIDs (Required) - A list of playlist IDs to compare against, separated by spaces  
--m, --PlaylistMerge (Optional, Default: false) - Whether to create a combined playlist containing all songs with any overlap between given IDs
--n, --PlaylistName (Optional, Default: "PlaylistComparer") - Name of merged playlist
--d, --PlaylistDesc (Optional, Default: null) - Description of merged playlist -- default is empty
+-m, --PlaylistMerge (Optional, Default: false) - Whether to create a combined playlist containing all songs with any overlap between given IDs  
+-n, --PlaylistName (Optional, Default: "PlaylistComparer") - Name of merged playlist  
+-d, --PlaylistDesc (Optional, Default: null) - Description of merged playlist -- default is empty  
 
 **You NEED a Spotify client app on your developer dashboard for this program to work. That is how you acquire a client ID.**
 
