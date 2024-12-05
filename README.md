@@ -1,4 +1,4 @@
-# SpotifyWrappedChecker [![CodeFactor](https://www.codefactor.io/repository/github/solwynn/SpotifyWrappedChecker/badge)](https://www.codefactor.io/repository/github/solwynn/SpotifyWrappedChecker) 
+# SpotifyWrappedChecker [![CodeFactor](https://www.codefactor.io/repository/github/solwynn/spotifyplaylistcomparer/badge)](https://www.codefactor.io/repository/github/solwynn/spotifyplaylistcomparer)
 A program I wrote in a few hours to compare several Spotify playlists. I wrote this to check overlap between multiple years of Spotify Wrapped.
   
 # Downloads  
